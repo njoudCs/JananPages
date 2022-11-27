@@ -1,6 +1,5 @@
-
 <p align="center">
-<img width="300" src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--light.svg#gh-light-mode-only">
+<img width="300" src="https://github.com/njoudCs/JananPages/blob/main/JananPages/Assets.xcassets/Logo.imageset">
 </p>
 
 # What is Jenan App？
