@@ -1,6 +1,6 @@
-<p align="center">
-<img width="300" src="https://github.com/njoudCs/JananPages/blob/main/JananPages/Assets.xcassets/Logo.imageset">
-</p>
+
+![7E6F6077-B055-41A3-AC3E-A93100C499BF_4_5005_c](https://user-images.githubusercontent.com/85634409/204134727-81d4b45f-d6f8-4a03-aad0-471eb414e95d.jpeg)
+
 
 # What is Jenan App？
 
@@ -11,11 +11,17 @@ Jenan app are providing a place for mothers where they can have a conversation w
   
 # Solution
 Create place that connects mothers with each other and connect them with experts, by sharing their knowledge and experience, through activities and scheduled meetings.
-  
-# My Accounts
+
+##Team members 
+
+- Lina Aldahry
+- Noura Alghanim
+- Njoud Alnajem 
+- Shorouq Khallaf
+- Wafa Alajmi
 
 You can follow me on social media a:
 
 - [Twitter](https://twitter.com/njoudCs)
-- [LinkedIn](https://www.linkedin.com/company/njoudCs/)
+- [LinkedIn](https://www.linkedin.com/in/njoud-saud-1168ba217)
 
