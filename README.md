@@ -12,7 +12,7 @@ Jenan app are providing a place for mothers where they can have a conversation w
 # Solution
 Create place that connects mothers with each other and connect them with experts, by sharing their knowledge and experience, through activities and scheduled meetings.
 
-##Team members 
+## Team members 
 
 - Lina Aldahry
 - Noura Alghanim @NourahGh95
@@ -20,7 +20,7 @@ Create place that connects mothers with each other and connect them with experts
 - Shorouq Khallaf
 - Wafa Alajmi
 
-You can follow me on social media a:
+You can follow me on social media :
 
 - [Twitter](https://twitter.com/njoudCs)
 - [LinkedIn](https://www.linkedin.com/in/njoud-saud-1168ba217)
